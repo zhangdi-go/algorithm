@@ -2,6 +2,8 @@ package leetcode
 
 // 2016. 增量元素之间的最大差值
 
+// https://leetcode.cn/problems/maximum-difference-between-increasing-elements/
+
 func maximumDifference(nums []int) int {
 	// min初始化为nums数组第一个元素
 	min := nums[0]
